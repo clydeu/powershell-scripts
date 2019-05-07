@@ -19,10 +19,8 @@ choco install putty
 choco install nuget.commandline
 choco install putty
 choco install paint.net
-choco install notepadpluplus.install
 choco install notepadplusplus.install
 choco install nugetpackageexplorer
-choco install notepadplusplus-pluginmanager
 choco install notepadplusplus-npppluginmanager
 choco install dotpeek
 choco install vscode
